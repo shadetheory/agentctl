@@ -1,4 +1,4 @@
-module github.com/jordanpartridge/agentctl
+module github.com/shadetheory/agentctl
 
 go 1.21
 

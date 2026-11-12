@@ -7,10 +7,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jordanpartridge/agentctl/pkg/container"
-	"github.com/jordanpartridge/agentctl/pkg/coordination"
-	"github.com/jordanpartridge/agentctl/pkg/pipeline"
-	"github.com/jordanpartridge/agentctl/pkg/review"
+	"github.com/shadetheory/agentctl/pkg/container"
+	"github.com/shadetheory/agentctl/pkg/coordination"
+	"github.com/shadetheory/agentctl/pkg/pipeline"
+	"github.com/shadetheory/agentctl/pkg/review"
 )
 
 func main() {
