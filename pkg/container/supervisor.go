@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jordanpartridge/agentctl/pkg/coordination"
+	"github.com/shadetheory/agentctl/pkg/coordination"
 )
 
 type TaskResult struct {
