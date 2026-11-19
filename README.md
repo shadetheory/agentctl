@@ -19,12 +19,12 @@ Container-based Claude Code agent orchestrator. Spawn isolated Claude agents in 
 ## Installation
 
 ```bash
-go install github.com/jordanpartridge/agentctl/cmd/agentctl@latest
+go install github.com/shadetheory/agentctl/cmd/agentctl@latest
 ```
 
 Or build from source:
 ```bash
-git clone https://github.com/jordanpartridge/agentctl
+git clone https://github.com/shadetheory/agentctl
 cd agentctl
 go build -o agentctl ./cmd/agentctl
 sudo mv agentctl /usr/local/bin/

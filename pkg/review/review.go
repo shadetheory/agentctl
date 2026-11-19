@@ -10,7 +10,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/jordanpartridge/agentctl/pkg/container"
+	"github.com/shadetheory/agentctl/pkg/container"
 )
 
 // Result represents the outcome of a PR review.
